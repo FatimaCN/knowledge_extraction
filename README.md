@@ -1,4 +1,4 @@
-# Construction Ontology Knowledge Exploration POC
+# Construction ontology knowledge exploration POC
 
 This repository contains a proof-of-concept interface for extracting, organizing, clustering, and exploring heterogeneous information from construction-domain ontologies and technical documents.
 
